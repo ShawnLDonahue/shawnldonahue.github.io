@@ -228,7 +228,7 @@ order: 1
 
 ---
 
-## Staff Cybersecurity Engineer
+## Staff Authority Cybersecurity IV
 **Overview:**  
 - Led incident response, developed playbooks and runbooks  
 - Managed vulnerabilities and network forensics  
