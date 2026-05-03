@@ -90,6 +90,19 @@ order: 1
 </div>
 
 <div class="timeline-item">
+  <h3>Cybersecurity III, Cybersecurity Analyst</h3>
+  <p><strong>Overview:</strong> Develop cybersecurity program "from the ground up", review existing tooling and documentation, monitor security tooling</p>
+  <p><strong>Skills & Focus Areas:</strong></p>
+  <ul class="skills">
+    <li>Incident Response & Runbook Development</li>
+    <li>Network Forensics & Vulnerability Management</li>
+    <li>Security Awareness</li>
+    <li>Risk Assessment & Remediation</li>
+    <li>Policy Implementation & Compliance Basics</li>
+  </ul>
+</div>
+
+<div class="timeline-item">
   <h3>Cloud Support Engineer</h3>
   <p><strong>Overview:</strong> Optimized cloud environments, assisted enterprise clients, resolved complex system issues.</p>
   <p><strong>Benefits:</strong> Problem-solving, cloud expertise, enterprise-level troubleshooting.</p>
