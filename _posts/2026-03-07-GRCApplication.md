@@ -15,7 +15,7 @@ When organizations talk about improving governance, risk, and compliance (GRC), 
 
 Spreadsheets multiply, ownership becomes unclear, and any attempt to introduce a dedicated platform immediately triggers red tape: security reviews, architecture approvals, procurement processes, and stakeholder alignment meetings.
 
-That friction is exactly why I chose to deploy **:contentReference[oaicite:0]{index=0}** quietly at home first.
+That friction is exactly why I chose to deploy *Eramba's Community Edition* quietly at home first.
 
 Not as a shortcut—but as a way to truly understand the platform before ever proposing it inside an enterprise environment.
 
@@ -31,7 +31,7 @@ Even a “simple” proof-of-concept can require:
 - security architecture reviews  
 - documentation and change management  
 
-By the time access is granted, momentum is gone—and the evaluation is shallow at best.
+By the time access is granted, momentum is gone and the evaluation is shallow at best.
 
 Worse, enterprise environments are the *worst* place to learn a new platform:
 - experimentation feels risky  
@@ -94,8 +94,7 @@ To properly manage:
 I transitioned the deployment to **Docker Compose**.
 
 This immediately improved:
-- service stability  
-- startup ordering  
+-- startup ordering  
 - configuration clarity  
 - long-term maintainability  
 
@@ -116,6 +115,14 @@ Small issues surfaced quickly:
 - documentation gaps that only appear outside managed environments  
 
 These are the problems you *want* to encounter early.
+
+---
+### Step 5: Pop Open a Browser and Check Out Local Host
+
+Easy peasy, lemon squeezy. 
+
+![Login Splash Success!](/assets/img/title_images/SLDEramba.png)
+
 
 ---
 
