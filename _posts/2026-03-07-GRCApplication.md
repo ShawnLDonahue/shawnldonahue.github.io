@@ -2,7 +2,7 @@
 title: "Building Up and Deploying Out Free GRC Eramba"
 date: 2026-03-07
 pin: true #this allows you to pin the post at the top
-categories: [cybersecurity, ai, homelab]
+categories: [cybersecurity, grc, risk-management]
 tags: [GRC, Eramba, home-lab, Ubuntu, Docker  ]
 image: assets/img/title_images/GRCatHome_2.jpeg
 author: Shawn

@@ -8,7 +8,9 @@ image: assets/img/title_images/GRCatHome_2.jpeg
 author: Shawn
 ---
 
-## Scope First — Because Everything Dies Without It
+## Introduction
+
+Scope First — Because Everything Dies Without It
 
 Before touching a single configuration screen, define what this actually is:
 
