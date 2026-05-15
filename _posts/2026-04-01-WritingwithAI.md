@@ -1,11 +1,11 @@
 ---
 title: "Writing with AI Without Losing Your Voice: A Practical Workflow for Responsible and ETHICAL AI-Assisted Blogging"
 date: 2026-04-01
+categories: [AI, Writing, Workflow]
+tags: [ai, llm, writing, prompt-engineering, content-creation, automation]
 author: Shawn
 pin: true
 image: assets/img/title_images/AI_cowriter_rsz.png
-categories: [AI, Writing, Workflow]
-tags: [ai, llm, writing, prompt-engineering, content-creation, automation]
 ---
 
 # Writing with AI Without Losing Your Voice: A Practical Workflow for Responsible AI-Assisted Blogging

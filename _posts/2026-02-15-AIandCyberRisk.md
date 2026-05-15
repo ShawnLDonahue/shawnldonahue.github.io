@@ -1,6 +1,5 @@
 ---
 title: "AI and Cyber Risk: How to Identify Real Threats, Ignore Hype, and Build a Working Security Approach"
-description:
 date: 2026-02-15
 pin: true #this allows you to pin the post at the top
 categories: [cybersecurity, ai, risk-management]
