@@ -8,7 +8,7 @@ pin: true
 image: assets/img/title_images/AWSTrash.png
 ---
 
-## Why I Left AWS (The Answer I’m Tired of Explaining—Properly)
+## Why I Left AWS (A Clearer Way to Explain a Complicated Choice)
 
 I get asked about this a lot.  
 More than feels proportional.
