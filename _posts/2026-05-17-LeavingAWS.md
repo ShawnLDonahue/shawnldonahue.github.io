@@ -199,7 +199,7 @@ I searched for something—*anything*—that felt like a greater good.
 I came up empty.
 
 One moment crystallized it:
-I was once **yelled at by an engineer whose company sold pictures of people’s feet**.
+I was once **yelled at by an engineer whose company sold online content - which in no way would be considered beneficial to society.**.
 
 That’s not a metaphor.  
 That’s not a joke.
