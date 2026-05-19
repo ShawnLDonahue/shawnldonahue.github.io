@@ -8,7 +8,7 @@ pin: true
 image: assets/img/title_images/AWSTrash.png
 ---
 
-## Why I Left AWS (A Clearer Way to Explain a Complicated Choice)
+## Why I Left AWS - (A Complete Explanation For a Complicated Choice)
 
 I get asked about this a lot.  
 More than feels proportional.
@@ -16,13 +16,18 @@ More than feels proportional.
 Despite spending *years* in other industries and roles, people keep circling back to why I left **AWS**—a comparatively short chapter in my career.
 
 Lately, I’ve realized the fatigue doesn’t come from the question itself.  
-It comes from the fact that the answer **can’t be reduced to a sound bite**. Answering it feels like the ramblings of a madman.
+It comes from the fact that the answer **can’t be reduced to a 1 minute summary**. Answering it feels like the ramblings of a madman.
 
 There was no single catalyst.  
 No dramatic fallout.  
 No villain-of-the-week.
+Almost all of my customer ratings were 4-5 stars (out of five) and I had completed every piece of training I was handed and so much more. 
+I lived in A Cloud Guru. 
+I earned certifications and the trust of senior engineers. 
 
-It was a layered, compounding experience that started early and quietly got worse.
+But... I left. I made a choice. 
+
+It was a layered, compounding unfortunate experience that started early and quietly got worse.
 
 This is the clearest version I can give—once—so I can stop rambling through it every time.
 
@@ -132,7 +137,9 @@ This amplified the dread of the daily grind and the feeling that...
 
 ### 6. Metrics Over Humanity
 
-AWS runs on metrics. Metrics are fine.
+AWS runs on metrics. 
+Aggressively defined metrics.
+Metrics are fine.
 
 **Metric absolutism is not.**
 
@@ -157,6 +164,8 @@ In my short time there:
 
 Every workday carried background noise:
 > *Is today the day?*
+
+Frequently checking public government sites for layoff announcements that usually hit before the 1:1.
 
 That kind of stress doesn’t spike—it erodes.
 
