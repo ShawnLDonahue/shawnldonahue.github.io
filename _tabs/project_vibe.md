@@ -3,12 +3,6 @@
 icon: fa-solid fa-terminal
 order: 6
 ---
-
-<!DOCTYPE html>
-<html>
-<head>
-<meta charset="UTF-8">
-<title>Vibe Coded: Ubuntu Speedrun Terminal</title>
 <style>
     body {
         background: #0b0f0c;
@@ -53,11 +47,9 @@ order: 6
         color: #55ff55;
     }
 </style>
-</head>
 
-<body>
 <div id="terminal">
-    <div class="line">Welcome to Ubuntu Command Speedrun Training V1.1</div>
+    <div class="line">Welcome to Ubuntu Command Speedrun Training V1.2 HTML Free </div>
     <div class="line">User: AmnesiaFree@UbuntuMachine</div>
     <div class="line">Type the correct command when prompted.</div>
     <div class="line">--------------------------------------------------</div>
@@ -89,8 +81,6 @@ const questions = [
     {q:"Update package list", a:"sudo apt update"},
     {q:"Install nginx", a:"sudo apt install nginx"},
     {q:"Change file permissions to 755", a:"chmod 755 file.sh"},
-
-    // --- Expanded training pool ---
 
     {q:"Create an empty file named notes.txt", a:"touch notes.txt"},
     {q:"Display first 10 lines of file.txt", a:"head file.txt"},
@@ -155,7 +145,6 @@ function log(text, cls="line"){
     div.className = cls;
     div.textContent = text;
     output.appendChild(div);
-    window.scrollTo(0, document.body.scrollHeight);
 }
 
 function shuffle(arr){
@@ -194,7 +183,6 @@ function endRound(){
         log("Type 'run' to play again.");
     } else {
         log("FAILED: Below 60%. Training extension triggered...", "error");
-        log("Generating new 10-question drill...");
         setTimeout(startRound, 1500);
     }
 }
@@ -227,6 +215,3 @@ input.addEventListener("keydown", function(e){
 
 log("Type 'run' to start the Ubuntu Speedrun.");
 </script>
-
-</body>
-</html>
