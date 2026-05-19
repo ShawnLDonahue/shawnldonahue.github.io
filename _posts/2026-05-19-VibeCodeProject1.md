@@ -13,6 +13,11 @@ image: assets/img/title_images/Project_VibeRSZ.jpeg
 A lightweight, browser-based Linux command game designed to rebuild terminal muscle memory—fast, simple, and intentionally minimal in complexity.
 
 [View the live demo here](https://shawnldonahue.github.io/project_vibe/).
+
+Note: Discovered it's not mobile-friendly. Input issue. 
+Next time.
+Onward and upward. 
+
 ---
 
 ## Author Commentary
