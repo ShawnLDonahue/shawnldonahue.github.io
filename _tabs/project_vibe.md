@@ -4,7 +4,7 @@ icon: fa-solid fa-terminal
 order: 6
 ---
 
-
+<!DOCTYPE html>
 <html>
 <head>
 <meta charset="UTF-8">
