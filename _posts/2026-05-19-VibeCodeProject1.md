@@ -1,11 +1,11 @@
 ---
-title: Vide Code Series I | A Vibe-Coded Linux-ish Command Game - Ubuntu Terminal Speedrun Trainer 
+title: Vide Code Series. Part 1. 
 date: 2026-05-19
 categories: [Projects, Cybersecurity, Learning Tools]
 tags: [Linux, Ubuntu, Terminal, Vibe Coding, JavaScript, Gamification, Cybersecurity Training]
 author: Shawn
 pin: true
-image: assets/img/title_images/Vibe_Coding_Project.jpeg
+image: assets/img/title_images/Project_VibeRSZ.jpeg
 ---
 
 # Vibe Coding Project: Ubuntu Terminal Speedrun Trainer
