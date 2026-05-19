@@ -8,10 +8,14 @@ pin: true
 image: assets/img/title_images/AWSTrash.png
 ---
 
-## Why I Left AWS - (A Complete Explanation For a Complicated Choice)
+## Why I Left AWS - (A Complete Explanation For A Complicated Choice)
 
 I get asked about this a lot.  
 More than feels proportional.
+
+I get it. AWS is a FAANG. The pay. The humble bragging rights. The work it took to get to that point in my career. The stock options.
+
+But...
 
 Despite spending *years* in other industries and roles, people keep circling back to why I left **AWS**—a comparatively short chapter in my career.
 
