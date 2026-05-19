@@ -1,13 +1,8 @@
----
-# the default layout is 'page'
-icon: fa-solid fa-terminal
-order: 6
----
 <!DOCTYPE html>
 <html>
 <head>
 <meta charset="UTF-8">
-<title>Ubuntu Speedrun Terminal v 1.1 by Shawn Donahue via ChatGPT</title>
+<title>Vibe Coded: Ubuntu Speedrun Terminal</title>
 <style>
     body {
         background: #0b0f0c;
@@ -87,59 +82,7 @@ const questions = [
     {q:"Show active connections", a:"netstat"},
     {q:"Update package list", a:"sudo apt update"},
     {q:"Install nginx", a:"sudo apt install nginx"},
-    {q:"Change file permissions to 755", a:"chmod 755 file.sh"},
-
-    // --- Expanded training pool ---
-
-    {q:"Create an empty file named notes.txt", a:"touch notes.txt"},
-    {q:"Display first 10 lines of file.txt", a:"head file.txt"},
-    {q:"Display last 10 lines of file.txt", a:"tail file.txt"},
-    {q:"View file contents one page at a time", a:"less file.txt"},
-    {q:"Show who you are logged in as", a:"whoami"},
-    {q:"Show system uptime", a:"uptime"},
-    {q:"Clear the terminal screen", a:"clear"},
-    {q:"Show current date and time", a:"date"},
-    {q:"Show command history", a:"history"},
-    {q:"Create a directory called logs", a:"mkdir logs"},
-
-    {q:"Remove directory named test (empty)", a:"rmdir test"},
-    {q:"Remove directory recursively named test", a:"rm -r test"},
-    {q:"Force delete file named file.txt", a:"rm -f file.txt"},
-    {q:"Move directory src to dst", a:"mv src dst"},
-    {q:"Copy directory src to dst recursively", a:"cp -r src dst"},
-
-    {q:"Change ownership of file.txt to user john", a:"sudo chown john file.txt"},
-    {q:"Change file permissions to read/write/execute for all", a:"chmod 777 file.txt"},
-    {q:"Add execute permission to file.sh", a:"chmod +x file.sh"},
-
-    {q:"Show IP routing table", a:"ip route"},
-    {q:"Ping google.com", a:"ping google.com"},
-    {q:"Show open ports", a:"ss -tuln"},
-
-    {q:"Search for process named nginx", a:"ps aux | grep nginx"},
-    {q:"Kill process by name nginx", a:"pkill nginx"},
-
-    {q:"Show system information", a:"uname -a"},
-    {q:"Show CPU info", a:"lscpu"},
-    {q:"Show block devices", a:"lsblk"},
-
-    {q:"Install package curl", a:"sudo apt install curl"},
-    {q:"Remove package nginx", a:"sudo apt remove nginx"},
-    {q:"Upgrade installed packages", a:"sudo apt upgrade"},
-
-    {q:"Show logged in users", a:"who"},
-    {q:"Show last logins", a:"last"},
-
-    {q:"Create symbolic link", a:"ln -s file1 link1"},
-    {q:"Show disk space in human readable format", a:"df -h"},
-    {q:"Show folder sizes", a:"du -sh *"},
-
-    {q:"Find all .log files", a:"find . -name '*.log'"},
-    {q:"Search text 'error' in logs recursively", a:"grep -r error ."},
-
-    {q:"Restart nginx service", a:"sudo systemctl restart nginx"},
-    {q:"Check status of nginx service", a:"sudo systemctl status nginx"},
-    {q:"Enable nginx at boot", a:"sudo systemctl enable nginx"}
+    {q:"Change file permissions to 755", a:"chmod 755 file.sh"}
 ];
 
 let roundQuestions = [];
