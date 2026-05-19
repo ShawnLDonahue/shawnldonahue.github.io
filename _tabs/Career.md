@@ -75,6 +75,7 @@ order: 1
 
 <div class="timeline">
 
+<!-->
 <div class="timeline-item">
   <h3>Cybersecurity IV, Staff Authority</h3>
   <p><strong>Overview:</strong> Led incident response, developed playbooks and runbooks, managed vulnerabilities, mentored team members.</p>
@@ -88,6 +89,27 @@ order: 1
     <li>Policy Implementation & Compliance Basics</li>
   </ul>
 </div>
+-->
+
+<div class="timeline-item">
+  <h3>Cybersecurity IV, Staff Authority</h3>
+
+  <p><strong>Overview:</strong> Security operations and defensive security lead with emphasis on EDR/NDR-based detection, incident response, and security program maturity. Responsible for strengthening organizational resilience through structured risk assessments, vulnerability management, security policy development, and automation of security operations workflows. Partners with stakeholders to mature security controls, improve response consistency, and translate security telemetry into actionable risk reduction.</p>
+
+  <p><strong>Benefits:</strong> Operational expertise in security operations, threat detection, incident mitigation, and security program maturity with a focus on scalable and repeatable defense processes.</p>
+
+  <p><strong>Skills & Focus Areas:</strong></p>
+  <ul class="skills">
+    <li>Security Operations & Incident Response</li>
+    <li>EDR/NDR-Based Detection & Threat Monitoring</li>
+    <li>Network Forensics & Vulnerability Management</li>
+    <li>Security Automation & Workflow Optimization</li>
+    <li>Risk Assessment, Remediation & Program Maturity</li>
+    <li>Security Policy Development & Implementation</li>
+    <li>Team Mentorship & Operational Security Awareness</li>
+  </ul>
+</div>
+
 
 <div class="timeline-item">
   <h3>Cybersecurity III, Cybersecurity Analyst</h3>
