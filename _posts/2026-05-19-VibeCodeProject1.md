@@ -12,8 +12,7 @@ image: assets/img/title_images/Vibe_Coding_Project.jpeg
 
 A lightweight, browser-based Linux command game designed to rebuild terminal muscle memory—fast, simple, and intentionally minimal in complexity.
 
-Link to the live demo: https://shawnldonahue.github.io/project/
-
+[View the live demo here](https://shawnldonahue.github.io/project_vibe/).
 ---
 
 ## Author Commentary
