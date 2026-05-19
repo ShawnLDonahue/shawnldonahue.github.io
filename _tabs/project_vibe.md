@@ -57,7 +57,7 @@ order: 6
 
 <body>
 <div id="terminal">
-    <div class="line">Welcome to Ubuntu Command Speedrun Training</div>
+    <div class="line">Welcome to Ubuntu Command Speedrun Training V1.1</div>
     <div class="line">User: AmnesiaFree@UbuntuMachine</div>
     <div class="line">Type the correct command when prompted.</div>
     <div class="line">--------------------------------------------------</div>
