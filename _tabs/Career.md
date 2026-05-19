@@ -75,7 +75,7 @@ order: 1
 
 <div class="timeline">
 
-<!-->
+<!--
 <div class="timeline-item">
   <h3>Cybersecurity IV, Staff Authority</h3>
   <p><strong>Overview:</strong> Led incident response, developed playbooks and runbooks, managed vulnerabilities, mentored team members.</p>
