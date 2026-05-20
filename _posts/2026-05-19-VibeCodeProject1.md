@@ -18,6 +18,7 @@ Note: Discovered it's not mobile-friendly. Input issue.
 Next time.
 Onward and upward. 
 
+Note 2: Moving to a new hosting repo soon. Hosting inside of the Chirpy blog page breaks a lot. 
 ---
 
 ## Author Commentary
