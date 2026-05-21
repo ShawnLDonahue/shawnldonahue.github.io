@@ -10,9 +10,12 @@ image: assets/img/title_images/Project_VibeRSZ.jpeg
 
 # Vibe Coding Project: Orbital Ascension Game 
 
+### Does not have mobile touch capability in this version - WASD / Arrows Only
+
 Decided to loosen the reigns and blowoff some steam with a less-than-productive vibe-coded game. 
 The repo is actually hosting the fourth iteration as I had to fine tune some code and rework the engine.
 Some of this work is just to test the limitations and capabilities of a github hosted application.
+
 
 ## [View the live demo here](https://shawnldonahue.github.io/Project_Vibe_III/).
 
