@@ -1,6 +1,6 @@
 ---
 title: Vide Code Series. Part 2. 
-date: 2026-05-19
+date: 2026-05-20
 categories: [Projects, Cybersecurity, Learning Tools]
 tags: [SecOps, Vibe Coding, JavaScript, Gamification, Cybersecurity Training]
 author: Shawn
