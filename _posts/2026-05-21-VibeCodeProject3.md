@@ -1,6 +1,6 @@
 ---
 title: Vide Code Series. Part 3. 
-date: 2026-05-20
+date: 2026-05-21
 categories: [Projects, Vibe Coding, Learning Tools]
 tags: [Vibe Coding, JavaScript, Gamification]
 author: Shawn
