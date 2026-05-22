@@ -15,6 +15,8 @@ The goal is to allow an IP for scanning or simply a port.
 
 I think moving forward I will start tracking iterations. Some of these applications require dozens of iterations.
 
+A future iteration of this would be converting to Python, making it functional, and run on Ubuntu.
+
 ## [View the live demo here](https://shawnldonahue.github.io/Project_Vibe_IV/).
 
 ## AI Generated Summary of My Prompt
