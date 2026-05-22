@@ -1,6 +1,7 @@
 ---
 title: Vide Code Series. Part 4. 
 date: 2026-05-22
+time: 08:00
 categories: [Projects, Vibe Coding, Learning Tools]
 tags: [Vibe Coding, Cybersecurity, JavaScript, Gamification]
 author: Shawn
