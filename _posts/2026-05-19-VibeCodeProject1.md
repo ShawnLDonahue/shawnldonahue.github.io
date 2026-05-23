@@ -9,10 +9,9 @@ image: assets/img/title_images/Project_VibeRSZ.jpeg
 ---
 
 # Vibe Coding Project: Ubuntu Terminal Speedrun Trainer
+## [View the live demo here](https://shawnldonahue.github.io/Project_Vibe_I/).
 
 A lightweight, browser-based Linux command game designed to rebuild terminal muscle memory—fast, simple, and intentionally minimal in complexity.
-
-## [View the live demo here](https://shawnldonahue.github.io/Project_Vibe_I/).
 
 Note: Discovered it's not mobile-friendly. Input issue. 
 Next time.

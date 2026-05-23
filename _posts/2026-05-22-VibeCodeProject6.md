@@ -9,6 +9,7 @@ image: assets/img/title_images/Project_VibeRSZ.jpeg
 ---
 
 # Vibe Coding Project: Powered Mind Map, lightweight
+## [View the live demo here](https://shawnldonahue.github.io/Project_Vibe_VI/).
 
 Yes, it's true, I skipped 5 - because it turned into a small passion project as I help my son work on a game which he was inspired to make while watching me work. 
 He hijacked my app-a-day project but I love it and 
@@ -19,8 +20,6 @@ Admittedly, a lot of lessons learned on this one.
 1. AI codes far better when using iteration. You can't just ask for it make a change, you have to re-upload the code and ask for incremental changes. Despite quality of prompt; hope for the best but prepare for the worst. 
 2. If you do attempt to simply "request modifications" the AI will hallucinate (sooner or later depending on complexity) and derail the entire mission.
 3. This app took about 37 iterations to complete and tune - still not perfect but that was never the goal. 
-
-## [View the live demo here](https://shawnldonahue.github.io/Project_Vibe_VI/).
 
 ## AI Generated Summary of My Prompt
 ```bash

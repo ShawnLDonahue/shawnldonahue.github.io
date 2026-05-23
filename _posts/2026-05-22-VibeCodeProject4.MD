@@ -9,6 +9,7 @@ image: assets/img/title_images/Project_VibeRSZ.jpeg
 ---
 
 # Vibe Coding Project: Cybersecurity Penetration Testing Tooling/Mapping
+## [View the live demo here](https://shawnldonahue.github.io/Project_Vibe_IV/).
 
 Just a quick simulator - non-functional - of an application that should effectively network map and provide open ports - while each open port is displayed with a commonly used tool related to further investigation. 
 The goal is to allow an IP for scanning or simply a port. 
@@ -16,8 +17,6 @@ The goal is to allow an IP for scanning or simply a port.
 I think moving forward I will start tracking iterations. Some of these applications require dozens of iterations.
 
 A future iteration of this would be converting to Python, making it functional, and run on Ubuntu.
-
-## [View the live demo here](https://shawnldonahue.github.io/Project_Vibe_IV/).
 
 ## AI Generated Summary of My Prompt
 ```bash

@@ -9,11 +9,10 @@ image: assets/img/title_images/Project_VibeRSZ.jpeg
 ---
 
 # Vibe Coding Project: SecOps Dashboard 
+## [View the live demo here](https://shawnldonahue.github.io/Project_Vibe_II/).
 
 A lightweight, straightforward dashboard for team collaboration. 
 Currently there is no persistance and so the page resets with each visit. 
-
-## [View the live demo here](https://shawnldonahue.github.io/Project_Vibe_II/).
 
 ## AI Generated Summary of My Prompt
 
