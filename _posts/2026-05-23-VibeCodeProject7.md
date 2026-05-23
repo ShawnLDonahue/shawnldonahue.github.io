@@ -8,6 +8,8 @@ pin: true
 image: assets/img/title_images/Project_VibeRSZ.jpeg
 ---
 # Vibe Coding Project: EMOM Timer
+## [View the live demo here](https://shawnldonahue.github.io/Project_Vibe_VII/).
+
 
 Day 4 of vibe coding a new application every day or until I run out of ideas.
 
@@ -37,10 +39,6 @@ REQUEST:
 code to patch:
 <paste code below>
 ```
-
-
-## [View the live demo here](https://shawnldonahue.github.io/Project_Vibe_VII/).
-
 
 ## AI Generated Summary of My Prompt
 
