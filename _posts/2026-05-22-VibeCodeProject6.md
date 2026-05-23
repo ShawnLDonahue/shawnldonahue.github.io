@@ -20,7 +20,7 @@ Admittedly, a lot of lessons learned on this one.
 2. If you do attempt to simply "request modifications" the AI will hallucinate (sooner or later depending on complexity) and derail the entire mission.
 3. This app took about 37 iterations to complete and tune - still not perfect but that was never the goal. 
 
-## [View the live demo here](https://shawnldonahue.github.io/Project_Vibe_V/).
+## [View the live demo here](https://shawnldonahue.github.io/Project_Vibe_VI/).
 
 ## AI Generated Summary of My Prompt
 ```bash
