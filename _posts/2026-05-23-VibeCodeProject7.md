@@ -25,7 +25,11 @@ Iteration Count:
 This took approximately 15 iterations to make it work as it does. I intend to put it to use next week and fine tune. 
 Probably the most practical application I have pushed out yet. 
 
-To save time between iterations I use this prompt to request a single change each time
+Possible Future Updates:
+Mobile Friendly Version
+More Audible Alerting
+
+To save time between iterations, I use the prompt below to as a request template:
 
 ```bash
 TASK TYPE: MINIMAL PATCH EDIT 
