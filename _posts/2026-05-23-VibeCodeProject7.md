@@ -23,7 +23,24 @@ Iteration Count:
 This took approximately 15 iterations to make it work as it does. I intend to put it to use next week and fine tune. 
 Probably the most practical application I have pushed out yet. 
 
+To save time between iterations I use this prompt to request a single change each time
+
+```bash
+TASK TYPE: MINIMAL PATCH EDIT 
+You may ONLY modify code necessary to satisfy the requested changes. 
+HARD CONSTRAINTS: - No behavior changes to existing functions - No logic changes to timers, state machines, or interactions - No UI restructuring unless explicitly required for the requested change - No “cleanup”, “optimization”, or “improvement” edits - 
+Preserve all IDs, function names, and event wiring unless directly affected - If a change touches a dependency, adjust only the minimal surface area required OUTPUT: - Return full updated file - No commentary - No diff format - No explanations, only declare "Done" when you have cpmpleted the patch code and it has been provided.
+
+REQUEST: 
+1. ... 
+
+code to patch:
+<paste code below>
+```
+
+
 ## [View the live demo here](https://shawnldonahue.github.io/Project_Vibe_VII/).
+
 
 ## AI Generated Summary of My Prompt
 
